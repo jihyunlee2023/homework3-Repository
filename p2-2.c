@@ -2,6 +2,8 @@
 void print_one(int *ptr, int rows);
 
 int main() {
+        printf("[----- [이지현]  [2023078007] -----]");
+
     int one[] = {0, 1, 2, 3, 4}; //크기가 5인 배열 선언, 숫자 저장
 
     printf("one     = %p\n", one); //one[]의 주소 출력

@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 int main() {
+        printf("[----- [이지현]  [2023078007] -----]");
+
     int list[5]; // 정수형 배열 'list' 선언, 크기는 5
     int *plist[5]; // 정수형 포인터 배열 'plist' 선언, 크기는 5
 

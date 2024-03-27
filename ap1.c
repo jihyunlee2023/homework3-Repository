@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 int main(){
+    printf("[----- [Your Name]  [Student ID] -----]");
+
     int list[5]; //크기가 5인 배열을 선언한다.
     int *plist[5] = {NULL, }; //포인터를 저장할 크기가 5인 배열을 선언한다.
 
