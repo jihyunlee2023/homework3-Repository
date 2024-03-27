@@ -9,7 +9,7 @@ float input[MAX_SIZE], answer; //전역 변수로 입력 배열과 답을 저장
 int i; //전역 변수 선언
 
 int main(void) {
-    printf("[----- [이지현]  [2023078007] -----]");
+    printf("[----- [이지현]  [2023078007] -----]\n");
     for(i=0; i < MAX_SIZE; i++) //input[]을 i로 초기화하는 반복문
         input[i] = i;
 
